@@ -312,6 +312,7 @@ Tools for understanding, searching, and analyzing codebases.
 |--------|------------|---------|------|------------|
 | [Apple Calendar](https://github.com/Omar-v2/mcp-ical) | macOS Calendar interaction via natural language | See repo | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | [CalDAV](https://github.com/dominik1001/caldav-mcp) | CalDAV calendar operations | See repo | PY | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| [Commune MCP](https://github.com/commune-sh/commune-mcp) | Agent email infrastructure — provision inboxes, send/receive email, threads, custom domains, structured extraction, SMS | `uvx commune-mcp` | PY | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | [Gmail / Google](https://github.com/nicobailey/mcp-gmail) | Gmail integration | See repo | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
 ### AI & LLM Tools
