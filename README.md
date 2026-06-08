@@ -358,6 +358,7 @@ Tools for understanding, searching, and analyzing codebases.
 |--------|------------|---------|------|------------|
 | [Algorand](https://github.com/GoPlausible/algorand-mcp) | 40+ tools for Algorand blockchain | See repo | TS | ![Advanced](https://img.shields.io/badge/-Advanced-red) |
 | [CoinMarketCap](https://github.com/shinzo-labs/coinmarketcap-mcp) | Complete CoinMarketCap API | See repo | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| [TWZRD Agent Intel](https://intel.twzrd.xyz) | Solana agent trust scoring — verify wallet identity before x402 payments via `score_agent`, `preflight_check`, `get_trust_receipt` | `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}` | — | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | [yfinance-mcp](https://github.com/narumiruna/yfinance-mcp) | Yahoo Finance data | See repo | PY | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
 ### Social Media
