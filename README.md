@@ -367,6 +367,7 @@ Tools for understanding, searching, and analyzing codebases.
 | [Bluesky](https://github.com/keturiosakys/bluesky-context-server) | Query and search Bluesky feeds and posts | See repo | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | [Reddit](https://github.com/amidvidy/mcp-server-reddit) | Reddit browsing and search | See repo | PY | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | [Twitter/X](https://github.com/EnesCinr/twitter-mcp) | Twitter/X interaction | See repo | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
+| [Xquik](https://github.com/Xquik-dev/x-twitter-scraper) | X data extraction, monitors, webhooks, and agent workflows | Remote URL | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
 ### CMS & Publishing
 
