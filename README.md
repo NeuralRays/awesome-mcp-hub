@@ -425,6 +425,7 @@ Tools for understanding, searching, and analyzing codebases.
 | [filesystem](https://github.com/modelcontextprotocol/servers/tree/main/src/filesystem) | Official — local file read/write with security boundaries | `npx @modelcontextprotocol/server-filesystem` | TS | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | [time-node-mcp](https://github.com/davidan90/time-node-mcp) | Timezone-aware date and time operations | See repo | TS | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | [website-downloader](https://github.com/pskill9/website-downloader) | Download entire websites using wget | See repo | TS | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
+| [Statsnet](https://github.com/usenetstate/statsnet-mcp) | Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` | Remote URL | — | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 
 ---
 
