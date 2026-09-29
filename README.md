@@ -327,6 +327,7 @@ Tools for understanding, searching, and analyzing codebases.
 | Server | Description | Install | Lang | Difficulty |
 |--------|------------|---------|------|------------|
 | [cognee-mcp](https://github.com/topoteretes/cognee/tree/main/cognee-mcp) | GraphRAG memory with customizable ingestion | See repo | PY | ![Advanced](https://img.shields.io/badge/-Advanced-red) |
+| [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) | Developer-alpha encrypted knowledge with lexical search and scoped, expiring grants | [Source build](https://github.com/louis030195/hyperconsciousness#install-from-source) | RS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | [memory](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) | Official — persistent knowledge graph | `npx @modelcontextprotocol/server-memory` | TS | ![Easy](https://img.shields.io/badge/-Easy-brightgreen) |
 | [memora](https://github.com/agentic-mcp-tools/memora) | Persistent memory with graph visualization and cloud sync | See repo | PY | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 
