@@ -354,6 +354,7 @@ Tools for understanding, searching, and analyzing codebases.
 
 ### Finance & Crypto
 
+| [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) | Local macOS CLI and stdio MCP payments with foreground owner approval for signing. | See repo (macOS Apple Silicon, Node 24) | TS | ![Medium](https://img.shields.io/badge/-Medium-yellow) |
 | Server | Description | Install | Lang | Difficulty |
 |--------|------------|---------|------|------------|
 | [Algorand](https://github.com/GoPlausible/algorand-mcp) | 40+ tools for Algorand blockchain | See repo | TS | ![Advanced](https://img.shields.io/badge/-Advanced-red) |
