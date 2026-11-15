@@ -554,3 +554,7 @@ MIT
 <p align="center">
   If you find this useful, please consider giving it a <a href="https://github.com/NeuralRays/awesome-mcp-hub">star</a>!
 </p>
+
+## Remote Domain Directories
+
+- **[No Stairs Please](https://nostairsplease.com/mcp)** — Hosted Streamable HTTP MCP server for searching live music venues, stage details, and booking contacts across all 50 US states ([nostairsplease.com](https://nostairsplease.com/)).
